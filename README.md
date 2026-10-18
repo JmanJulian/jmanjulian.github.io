@@ -12,4 +12,4 @@ A compact Cockpit addon designed for managing headless VirtualBox environments t
 ### 📹 YouTube-DLP Graphical Interface
 A simple, user-friendly desktop GUI wrapper built with Python and PySimpleGUI to manage media archiving scripts effortlessly.
 * [🌐 Live Project Page](https://jmanjulian.github.io/ytdlp-gui/)
-* [💾 Source Code Repository](https://github.com)
+* [💾 Source Code Repository](https://github.com/JmanJulian/ytdlp-gui)
